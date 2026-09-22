@@ -1,0 +1,1 @@
+Used for learning rust and working through the projects in the text
