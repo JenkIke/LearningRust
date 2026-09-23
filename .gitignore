@@ -1,3 +1,11 @@
 /guessing_game/target
 /hello_cargo/target
 /hello_world/target
+
+### Practice with rustlings ###
+/rustlings/Cargo.lock
+/rustlings/target/
+/rustlings/.vscode/
+/rustlings/solutions
+/rustlings/exercises/**/*.exe
+/rustlings/exercises/**/*.pdb
